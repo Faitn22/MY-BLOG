@@ -481,7 +481,7 @@ footer .tm-copyright p{
     }
 
     .tm-media img {
-        width: 150px;
+        width: auto;
         height: 150px;
     }
 }
